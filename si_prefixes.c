@@ -985,7 +985,8 @@ void output_prompt()
 {
 	printf("\033[2m***********************************************************************************************************************************************************************\033[0m\n");
 	printf("enter a si metric prefix:\n\033[2mif you do not know what to "
-		   "enter\ntry to type any letter, for example 'p'\nor \"all\", if you "
+		   "enter,\ntry to type any letter, for example 'p'\nor\n\"all\",\nif "
+		   "you "
 		   "would like to "
 		   "see "
 		   "all the si prefixes\n\033[0m");
