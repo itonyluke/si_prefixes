@@ -1,7 +1,10 @@
 ### this program outputs SI prefixes
 
 #### install:
-`git clone https://github.com/itonyluke/si_prefixes si_prefixes`
+
+```
+git clone https://github.com/itonyluke/si_prefixes si_prefixes
+```
 
 #### build:
 `gcc -Wall -Wextra -Werror si_prefixes.c`
